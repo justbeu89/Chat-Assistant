@@ -1,0 +1,50 @@
+[
+  {
+    "additional_kwargs": {},
+    "content": "Summarize this text:  Hello, esteem.",
+    "example": false,
+    "type": "human"
+  },
+  {
+    "additional_kwargs": {},
+    "content": "Summarize this text:  Hello, esteem.",
+    "example": false,
+    "type": "human"
+  },
+  {
+    "additional_kwargs": {},
+    "content": " The text appears to consist of only one sentence: \"Hello, esteem.\" It's a polite greeting, but it doesn't contain any substantial information for summarization.",
+    "example": false,
+    "type": "ai"
+  },
+  {
+    "additional_kwargs": {},
+    "content": " The text appears to consist of only one sentence: \"Hello, esteem.\" It's a polite greeting, but it doesn't contain any substantial information for summarization.",
+    "example": false,
+    "type": "ai"
+  },
+  {
+    "additional_kwargs": {},
+    "content": "Summarize this text:  Hello, esteem.",
+    "example": false,
+    "type": "human"
+  },
+  {
+    "additional_kwargs": {},
+    "content": "Summarize this text:  Hello, esteem.",
+    "example": false,
+    "type": "human"
+  },
+  {
+    "additional_kwargs": {},
+    "content": " The text is a simple greeting with no significant content to summarize.",
+    "example": false,
+    "type": "ai"
+  },
+  {
+    "additional_kwargs": {},
+    "content": " The text is a simple greeting with no significant content to summarize.",
+    "example": false,
+    "type": "ai"
+  }
+]

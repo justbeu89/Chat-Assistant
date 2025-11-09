@@ -1,0 +1,32 @@
+[
+  {
+    "additional_kwargs": {},
+    "content": "Summarize this text:  Hello, esteem.",
+    "example": false,
+    "type": "human"
+  },
+  {
+    "additional_kwargs": {},
+    "content": " I'm sorry for the misunderstanding, but there seems to be a missing or incomplete part of the text you want me to summarize. The text starts with \"Hello, esteem.\" which is not enough information to create a meaningful summary. Could you please provide more context or details?",
+    "example": false,
+    "type": "ai"
+  },
+  {
+    "additional_kwargs": {},
+    "content": " I'm sorry for the misunderstanding, but there seems to be a missing or incomplete part of the text you want me to summarize. The text starts with \"Hello, esteem.\" which is not enough information to create a meaningful summary. Could you please provide more context or details?",
+    "example": false,
+    "type": "ai"
+  },
+  {
+    "additional_kwargs": {},
+    "content": "Summarize this text:  Hello, esteem.",
+    "example": false,
+    "type": "human"
+  },
+  {
+    "additional_kwargs": {},
+    "content": " I'm unable to summarize the text as it only contains the phrase \"Hello, esteem.\" which is not sufficient information for creating a meaningful summary. Could you please provide more context or details?",
+    "example": false,
+    "type": "ai"
+  }
+]

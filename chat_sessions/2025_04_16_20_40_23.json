@@ -1,0 +1,14 @@
+[
+  {
+    "additional_kwargs": {},
+    "content": "Summarize this text:  AI is an application of artificial intelligence.",
+    "example": false,
+    "type": "human"
+  },
+  {
+    "additional_kwargs": {},
+    "content": " The text states that AI, or Artificial Intelligence, is an application of artificial intelligence technology.",
+    "example": false,
+    "type": "ai"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "additional_kwargs": {},
+    "content": "what was titanic about?",
+    "example": false,
+    "type": "human"
+  },
+  {
+    "additional_kwargs": {},
+    "content": " The Titanic was a British passenger liner that famously sank on its maiden voyage on April 15, 1912, after colliding with an iceberg in the North Atlantic Ocean. It is considered one of modern history's most infamous maritime disasters due to the high number of casualties and the size and luxury of the ship. The sinking resulted in the deaths of more than 1,500 passengers and crew, making it one of the deadliest commercial peacetime maritime disasters in modern history. Despite the tragedy, the Titanic story continues to capture public imagination due to its epic scale and the numerous heroic and tragic human stories that emerged from the disaster.",
+    "example": false,
+    "type": "ai"
+  }
+]
+
+
+
+
+
+
+
